@@ -13,3 +13,4 @@ sudo apt-get update
 sudo apt-get install -y kubeadm kubectl kubelet
 sudo swapoff -a
 sudo apt-get upgrade -y
+alias kc=kubectl
